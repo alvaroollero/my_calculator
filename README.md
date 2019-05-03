@@ -1,1 +1,2 @@
-Mi primer fichero en mi primer repositorio, Sergio Framiñán García
+Mi primer fichero en mi primer repositorio
+Álvaro Ollero Martín
